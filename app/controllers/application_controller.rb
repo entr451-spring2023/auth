@@ -2,6 +2,6 @@ class ApplicationController < ActionController::Base
   # before_action :current_user
 
   # def current_user
-  #   puts "----- this runs in a before action"
+  #   puts "----- this code runs at the beginning of the request"
   # end
 end
